@@ -1,0 +1,157 @@
+#kontener
+    {
+        
+        background-color: lavender;
+    }
+
+#lll
+    {
+        width: 1712px;
+        height: 80px;
+        margin-left: 50px;
+    }
+
+#logol
+    {
+        float: left;
+        color: whitesmoke;
+        background-color: darkcyan;
+        width: 600px;
+        border-left: rgba(192, 1, 192, 0.863);
+        border-top: rgba(192, 1, 192, 0.863);
+        border-bottom: rgba(192, 1, 192, 0.863);
+        border-left-width: 6px;
+        border-left-style: solid;
+        border-top-width: 6px;
+        border-top-style: solid;
+        border-bottom-width: 6px;
+        border-bottom-style: solid;
+    }
+
+#login
+    {
+        float: left;
+        color: whitesmoke;
+        background-color: darkcyan;
+        width: 500px;
+        height: 80px;
+        border-top: rgba(192, 1, 192, 0.863);
+        border-bottom: rgba(192, 1, 192, 0.863);
+        border-top-width: 6px;
+        border-top-style: solid;
+        border-bottom-width: 6px;
+        border-bottom-style: solid;
+    }
+
+#logop
+    {
+        float: left;
+        color: whitesmoke;
+        background-color: darkcyan;
+        width: 600px;
+        border-right: rgba(192, 1, 192, 0.863);
+        border-top: rgba(192, 1, 192, 0.863);
+        border-bottom: rgba(192, 1, 192, 0.863);
+        border-right-width: 6px;
+        border-right-style: solid;
+        border-top-width: 6px;
+        border-top-style: solid;
+        border-bottom-width: 6px;
+        border-bottom-style: solid;
+    }
+
+#info
+    {
+        margin-left: 50px;
+        padding: 10px;
+        width: 1688px;
+        text-align: center;
+        border-width: 2px;
+        border-color: khaki;
+        border-style: solid;
+        background-color: lawngreen;
+    }
+
+#logowanie
+    {
+        margin-left: 20px;
+    }
+
+#inL
+    {
+        background-color: rgb(250, 250, 250);
+        border: black;
+        border-style: solid;
+        border-radius: 0.63em;
+        border-width: 0.7px;
+        text-align: center;
+        font-size: 13.3px;
+        margin-left: 3px;
+    }
+
+#inH
+    {
+        background-color: rgb(250, 250, 250);
+        border: black;
+        border-style: solid;
+        border-radius: 0.63em;
+        border-width: 0.7px;
+        text-align: center;
+        font-size: 13.3px;
+        margin-right: 3px;
+    }
+
+#log
+    {
+        color: white;
+        background-color: rgb(0, 0, 0);
+        border: rgb(0, 0, 0);
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 3px;
+        text-align: center;
+        font-size: 13.5px;
+        margin-top: 6px;
+        margin-left: 170px;
+    }
+
+#pjoter
+    {
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-shadow:1 1 6px rgb(255, 0, 0);
+    }
+
+#srodek
+    {
+        margin-top: 12px;
+        width: 1712px;
+        height: 660px;
+        margin-left: 50px;
+        background-color: black;
+    }
+
+#text
+    {
+        resize: none;
+        background-color: rgb(235, 235, 235);
+        margin: 30px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 14.4px;
+        border: white;
+        border-radius: 20px;
+    }
+
+#fejs
+    {
+        color: white;
+        text-shadow:2px 2px 3px rgb(0, 0, 0);
+        text-decoration: none;
+        height: 20px;
+    }
+
+#fb
+    {
+        height: 15px;
+        width: 15px;
+    }

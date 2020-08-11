@@ -1,0 +1,11 @@
+a
+    {
+        background-color: rgba(122, 191, 255, 0.288);
+        color: rgb(221, 0, 0);
+        font-style: oblique;
+        font-weight: bold;
+        padding: 0.26em;
+        border: rgb(247, 158, 70);
+        border-style: groove;
+        border-width: 6px;
+    }

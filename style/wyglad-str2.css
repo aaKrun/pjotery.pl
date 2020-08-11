@@ -1,0 +1,79 @@
+#str1
+    {
+        background-color: rgba(153, 68, 192, 0.774);
+        color: rgb(167, 152, 23);
+        font-style: oblique;
+        font-weight: bold;
+        padding: 5px;
+        border: rgb(247, 158, 70);
+        border-style: groove;
+        border-width: 6px;
+    }
+
+#hello
+    {
+        margin-top: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+
+    }
+
+#gora
+    {
+        margin-left: 270px;
+        margin-right: auto;
+        color: rgb(177, 71, 0);
+        background: rgb(0, 162, 255);
+        padding: 10px;
+        border: greenyellow;
+        border-width: 10px;
+        border-style: groove;
+    }
+
+body
+    {
+        margin-top: 110px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgba(255, 250, 205, 0.575);
+        width: 1050px;
+        border: darkcyan;
+        border-width: 20px;
+        border-style: groove;
+    }
+
+#gif
+    {
+        width: 600px;
+        margin-left: 200px;
+        margin-right: 200px;
+        border: rgb(0, 226, 196);
+        border-width: 12px;
+        border-style: double;
+    }
+
+#srodek
+    {
+        width: 1030px;
+        padding: 10px;
+        background-color: lightsalmon;
+    }
+
+#goodbye
+    {  
+        margin-top: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center; 
+    }
+
+#pasek
+    {
+        width: 1000px;
+        height: 30px;
+        background-color: khaki;
+        border: rgb(101, 201, 1);
+        border-style: double;
+        border-width: 5px;
+    }

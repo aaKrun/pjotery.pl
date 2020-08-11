@@ -1,0 +1,11 @@
+a
+    {
+        background-color: rgb(0, 204, 211);
+        color: rgb(255, 118, 103);
+        font-weight: bold;
+        font-style: italic;
+        padding: 5px;
+        border: rgb(119, 253, 119);
+        border-style: inherit;
+        border-width: 4px;
+    }
